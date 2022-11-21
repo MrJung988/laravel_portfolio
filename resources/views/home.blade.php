@@ -9,8 +9,8 @@
         <div class="container">
           <p class="display-6 color-d">Hello!</p>
           <h1 class="hero-title mb-4">I am Samir Karki</h1>
-          <p class="hero-subtitle"><span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
-          <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
+          <p class="hero-subtitle"><span class="typed" data-typed-items="Web Designer,Laravel Developer, Backend Developer, Freelancer"></span></p>
+          <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p>
         </div>
       </div>
     </div>
