@@ -9,7 +9,7 @@
             <span class="ico-circle"><i class="fa-solid fa-check"></i></span>
           </div>
           <div class="counter-num">
-            <p data-purecounter-start="0" data-purecounter-end="450" data-purecounter-duration="1" class="counter purecounter">450</p>
+            <p data-purecounter-start="0" data-purecounter-end="450" data-purecounter-duration="1" class="counter purecounter"></p>
             <span class="counter-text">WORKS COMPLETED</span>
           </div>
         </div>
@@ -20,7 +20,7 @@
             <span class="ico-circle"><i class="fa-solid fa-book-journal-whills"></i></span>
           </div>
           <div class="counter-num">
-            <p data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="counter purecounter">25</p>
+            <p data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="counter purecounter"></p>
             <span class="counter-text">YEARS OF EXPERIENCE</span>
           </div>
         </div>
@@ -31,7 +31,7 @@
             <span class="ico-circle"><i class="fa-solid fa-user-group"></i></span>
           </div>
           <div class="counter-num">
-            <p data-purecounter-start="0" data-purecounter-end="550" data-purecounter-duration="1" class="counter purecounter">550</p>
+            <p data-purecounter-start="0" data-purecounter-end="550" data-purecounter-duration="1" class="counter purecounter"></p>
             <span class="counter-text">TOTAL CLIENTS</span>
           </div>
         </div>
@@ -42,7 +42,7 @@
             <span class="ico-circle"><i class="fa-solid fa-award"></i></span>
           </div>
           <div class="counter-num">
-            <p data-purecounter-start="0" data-purecounter-end="48" data-purecounter-duration="1" class="counter purecounter">48</p>
+            <p data-purecounter-start="0" data-purecounter-end="48" data-purecounter-duration="1" class="counter purecounter"></p>
             <span class="counter-text">AWARD WON</span>
           </div>
         </div>

@@ -11,6 +11,11 @@
     .section-counter{
       background-image: url('image/counters-bg.jpg');
     }
+
+    /* Testimonial blade file CSS */
+    .testimonials{
+      background-image: url('image/overlay-bg.jpg');
+    }
   </style>
 @endpush
 @section('main')
