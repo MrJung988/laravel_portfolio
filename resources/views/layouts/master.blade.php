@@ -21,6 +21,9 @@
 
       <!-- Template Main CSS File -->
     <link href="{{asset('css/style.css')}}" rel="stylesheet">
+
+    <!-- FontAwesome Icons -->
+    <script src="https://kit.fontawesome.com/bc607b3e78.js" crossorigin="anonymous"></script>
 </head>
 <body>
     @include('layouts.navbar')
