@@ -1,8 +1,21 @@
 @extends('layouts.master')
 @section('title','Homepage | Samir Karki')
+@push('css')
+  <style>
+    /* Home CSS */
+    .hero{
+      background-image: url('image/aaa.jpg');
+    }
+
+    /* Counter blade file CSS */
+    .section-counter{
+      background-image: url('image/counters-bg.jpg');
+    }
+  </style>
+@endpush
 @section('main')
     <!-- ======= Hero Section ======= -->
-  <div id="hero" class="hero route bg-image" style="background-image: url({{asset('image/aaa.jpg')}}">
+  <div id="hero" class="hero route bg-image">
     <div class="overlay-itro"></div>
     <div class="hero-content display-table">
       <div class="table-cell">

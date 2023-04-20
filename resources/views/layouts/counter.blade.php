@@ -1,5 +1,5 @@
 <!-- ======= Counter Section ======= -->
-<div class="section-counter paralax-mf bg-image" style="background-image: url({{asset('image/counters-bg.jpg')}})">
+<div class="section-counter paralax-mf bg-image">
   <div class="overlay-mf"></div>
   <div class="container position-relative">
     <div class="row">
