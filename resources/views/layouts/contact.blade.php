@@ -56,23 +56,20 @@
                     </div>
                     <div class="more-info">
                       <p class="lead">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                        expedita aperiam aliquid at.
-                        Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                        mollitia inventore?
+                      Thank you for visiting my website. If you have any questions, comments, or would like to discuss a potential project, please don't hesitate to get in touch. You can reach me by filling out the contact form provided, or by sending an email directly to the address given. I'll get back to you as soon as possible. Thank you!
                       </p>
                       <ul class="list-ico">
-                        <li><span class="bi bi-geo-alt"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                        <li><span class="bi bi-phone"></span> (617) 557-0089</li>
-                        <li><span class="bi bi-envelope"></span> contact@example.com</li>
+                        <li><span class="fa-solid fa-location-dot"></span> Naghdhunga-8, Pokhara, Kaski</li>
+                        <li><span class="fa-solid fa-mobile"></span> +977 9816641520</li>
+                        <li><span class="fa-solid fa-envelope"></span> karkisamir99@gmail.com</li>
                       </ul>
                     </div>
                     <div class="socials">
                       <ul>
-                        <li><a href=""><span class="ico-circle"><i class="bi bi-facebook"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="bi bi-instagram"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="bi bi-twitter"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="bi bi-linkedin"></i></span></a></li>
+                        <li><a href=""><span class="ico-circle"><i class="fa-brands fa-facebook"></i></span></a></li>
+                        <li><a href=""><span class="ico-circle"><i class="fa-brands fa-instagram"></i></span></a></li>
+                        <li><a href=""><span class="ico-circle"><i class="fa-brands fa-twitter"></i></span></a></li>
+                        <li><a href=""><span class="ico-circle"><i class="fa-brands fa-linkedin"></i></span></a></li>
                       </ul>
                     </div>
                   </div>
