@@ -17,9 +17,9 @@
         <div class="row">
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="{{ asset('image/work-1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-1.jpg" alt="" class="img-fluid">
+                  <img src="{{ asset('image/work-1.jpg') }}" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -32,7 +32,7 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"><i class="fa-solid fa-circle-plus"></i></span></a>
                     </div>
                   </div>
                 </div>
@@ -41,9 +41,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="{{ asset('image/work-2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-2.jpg" alt="" class="img-fluid">
+                  <img src="{{ asset('image/work-2.jpg') }}" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -56,7 +56,7 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"><i class="fa-solid fa-circle-plus"></i></span></a>
                     </div>
                   </div>
                 </div>
@@ -65,9 +65,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="{{ asset('image/work-3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-3.jpg" alt="" class="img-fluid">
+                  <img src="{{ asset('image/work-3.jpg') }}" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -80,7 +80,7 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"><i class="fa-solid fa-circle-plus"></i></span></a>
                     </div>
                   </div>
                 </div>
@@ -89,9 +89,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="{{ asset('image/work-4.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-4.jpg" alt="" class="img-fluid">
+                  <img src="{{ asset('image/work-4.jpg') }}" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -104,7 +104,7 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"><i class="fa-solid fa-circle-plus"></i></span></a>
                     </div>
                   </div>
                 </div>
@@ -113,9 +113,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="{{ asset('image/work-5.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-5.jpg" alt="" class="img-fluid">
+                  <img src="{{ asset('image/work-5.jpg') }}" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -128,7 +128,7 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"><i class="fa-solid fa-circle-plus"></i></span></a>
                     </div>
                   </div>
                 </div>
@@ -137,9 +137,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="{{ asset('image/work-6.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-6.jpg" alt="" class="img-fluid">
+                  <img src="{{ asset('image/work-6.jpg') }}" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -152,7 +152,7 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"><i class="fa-solid fa-circle-plus"></i></span></a>
                     </div>
                   </div>
                 </div>
