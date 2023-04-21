@@ -8,7 +8,7 @@
             Blog
           </h3>
           <p class="subtitle-a">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+          Notes from the Journey
           </p>
           <div class="line-mf"></div>
         </div>
