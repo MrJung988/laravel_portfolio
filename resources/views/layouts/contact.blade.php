@@ -66,10 +66,10 @@
                     </div>
                     <div class="socials">
                       <ul>
-                        <li><a href=""><span class="ico-circle"><i class="fa-brands fa-facebook"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="fa-brands fa-instagram"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="fa-brands fa-twitter"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="fa-brands fa-linkedin"></i></span></a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=100054489180956" target="_blank"><span class="ico-circle"><i class="fa-brands fa-facebook"></i></span></a></li>
+                        <li><a href="https://www.instagram.com/_mr_jung_/" target="_blank"><span class="ico-circle"><i class="fa-brands fa-instagram"></i></span></a></li>
+                        <li><a href="#" target="_blank"><span class="ico-circle"><i class="fa-brands fa-twitter"></i></span></a></li>
+                        <li><a href="https://www.linkedin.com/in/samir-karki-29450b235/" target="_blank"><span class="ico-circle"><i class="fa-brands fa-linkedin"></i></span></a></li>
                       </ul>
                     </div>
                   </div>
